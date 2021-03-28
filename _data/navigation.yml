@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Industrial Experience"
+    url: /work/
+
+  - title: "Resume"
+    url: /files/resume.pdf
