@@ -1,0 +1,15 @@
+title: Satyadev Ntv
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+    - name: "Resume"
+      link: "./resume.pdf"
