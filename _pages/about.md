@@ -20,14 +20,17 @@ Machine Learning. I am interested in the areas of Optimization, Domain Adaptatio
 have/provide strong theoretical foundations in above areas. Recent focuses include Optimal Transport, Riemannian Optimization.
 
 
-### Publications
+### Preprints
 
 B. Mishra, N. T. V. Satya Dev, H. Kasai, and P. Jawanpuria. **Manifold optimization for optimal transport**.  
 *Technical Report, arXiv 2021*  
 [[arXiv]](https://arxiv.org/pdf/2103.00902.pdf) [[MOT]](https://github.com/satyadevntv/mot)
 
+
+### Publications
+
 P. Jawanpuria, N. T. V. Satya Dev, and B. Mishra. **Efficient optimal transport using feature correlations**.  
-*Under Review at IEEE CDC 2021*  
+*In Proceedings of the 2021 IEEE Conference on Decision and Control (CDC)*  
 [[arXiv]](https://arxiv.org/pdf/2010.11852.pdf) [[ROT4C]](https://github.com/satyadevntv/rot4c)
 
 P. Jawanpuria, N. T. V. Satya Dev, and B. Mishra. **Efficient robust optimal transport: formulations and algorithms** (A short version of above work).  
