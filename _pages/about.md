@@ -40,7 +40,10 @@ P. Jawanpuria, N. T. V. Satya Dev, A. Kunchukuttan, and B. Mishra. **Learning Ge
 *In Proceedings of the 5th Workshop on Representation Learning for NLP (RepL4NLP-2020), co-located with ACL 2020.*  
 [[ACL]](https://www.aclweb.org/anthology/2020.repl4nlp-1.6/) [[GWME]](https://github.com/satyadevntv/geo-meta-emb)
 
-### Contributions
+### Repositories/Contributions
+
+**McTorch: Manifold optimization library for Deep Learning**  
+[[GITHUB]](https://github.com/mctorch/mctorch)
 
 **GeoIMC: Geometery Aware Inductive Matrix Completion algorithm**  
 *Microsoft's Recommender Systems (2020)*  
