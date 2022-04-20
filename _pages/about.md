@@ -9,42 +9,39 @@ redirect_from:
   - /about.html
 ---
 
-I am a Machine Learning Engineer at Vayve Technologies, India.  
+Machine Learning Researcher, Vayve Technologies, India.  
 
-Before this, I worked as Lead Software Engineer developing end to end systems involving large scale IoT solutions.
+Prior to this, I worked on design and development of systems involving large scale IoT solutions.  
 I received my B.Tech (2016) in Electronics and Electrical Engineering from IIT Guwahati.
 
-### Research
+## Research
 
-Machine Learning. I am interested in the areas of Optimization, Domain Adaptation and Deep Learning. In particular, frameworks that
-have/provide strong theoretical foundations in above areas. Recent focuses include Optimal Transport, Riemannian Optimization.
-
-
-### Preprints
-
-B. Mishra, N. T. V. Satya Dev, H. Kasai, and P. Jawanpuria. **Manifold optimization for optimal transport**.  
-*Technical Report, arXiv 2021*  
-[[arXiv]](https://arxiv.org/pdf/2103.00902.pdf) [[MOT]](https://github.com/satyadevntv/mot)
+Machine Learning. I am interested in the areas of Optimization, Domain Adaptation and Deep Learning. In particular, I work on 
+frameworks that have/provide strong theoretical foundations in above areas. Recent focuses include Optimal Transport, 
+Riemannian Optimization.
 
 
-### Publications
+## Publications/Preprints
 
-P. Jawanpuria, N. T. V. Satya Dev, and B. Mishra. **Efficient optimal transport using feature correlations**.  
-*In Proceedings of the 2021 IEEE Conference on Decision and Control (CDC)*  
-[[arXiv]](https://arxiv.org/pdf/2010.11852.pdf) [[ROT4C]](https://github.com/satyadevntv/rot4c)
+B. Mishra, N. T. V. Satya Dev, H. Kasai, and P. Jawanpuria.  
+[Manifold optimization for optimal transport](https://arxiv.org/pdf/2103.00902.pdf), arXiv 2021.
 
-P. Jawanpuria, N. T. V. Satya Dev, and B. Mishra. **Efficient robust optimal transport: formulations and algorithms** (A short version of above work).  
-*Workshop on Optimization for Machine Learning (OPT2020) at NeurIPS 2020*  
+P. Jawanpuria, N. T. V. Satya Dev, and B. Mishra.  
+[Efficient optimal transport using feature correlations](https://arxiv.org/pdf/2010.11852.pdf), IEEE CDC 2021.
 
-P. Jawanpuria, N. T. V. Satya Dev, A. Kunchukuttan, and B. Mishra. **Learning Geometric Word Meta-Embeddings**.   
-*In Proceedings of the 5th Workshop on Representation Learning for NLP (RepL4NLP-2020), co-located with ACL 2020.*  
-[[ACL]](https://www.aclweb.org/anthology/2020.repl4nlp-1.6/) [[GWME]](https://github.com/satyadevntv/geo-meta-emb)
+P. Jawanpuria, N. T. V. Satya Dev, and B. Mishra.  
+[Efficient robust optimal transport: formulations and algorithms](https://opt-ml.org/index.html), OPT @ NeurIPS 2020.
 
-### Repositories/Contributions
+P. Jawanpuria, N. T. V. Satya Dev, A. Kunchukuttan, and B. Mishra.  
+[Learning Geometric Word Meta-Embeddings](https://www.aclweb.org/anthology/2020.repl4nlp-1.6/), RepL4NLP @ ACL 2020.
 
-**McTorch: Manifold optimization library for Deep Learning**  
-[[GITHUB]](https://github.com/mctorch/mctorch)
+## Repositories/Contributions
 
-**GeoIMC: Geometery Aware Inductive Matrix Completion algorithm**  
-*Microsoft's Recommender Systems (2020)*  
-[[GITHUB]](https://github.com/microsoft/recommenders) [[GeoIMC]](https://github.com/microsoft/recommenders/tree/main/reco_utils/recommender/geoimc)
+**[McTorch](https://github.com/mctorch/mctorch)**: Manifold optimization library for Deep Learning  
+
+**[Pymanopt](https://github.com/pymanopt/pymanopt)**: Python toolbox for optimization on Riemannian Manifolds  
+
+**[GeoIMC](https://github.com/microsoft/recommenders)**: Geometery Aware Inductive Matrix Completion algorithm  
+*In Microsoft's Recommender Systems*  
+
+**[DECILE](https://github.com/decile-team)**: Data Efficient Machine Learning  
