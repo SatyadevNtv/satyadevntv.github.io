@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-Machine Learning Researcher, Vayve Technologies, India.  
+Technical Lead - Machine Learning, Teachmint Technologies, India.  
 
 Prior to this, I worked on design and development of systems involving large scale IoT solutions.  
 I received my B.Tech (2016) in Electronics and Electrical Engineering from IIT Guwahati.
@@ -21,7 +21,7 @@ frameworks that have/provide strong theoretical foundations in above areas. Rece
 Riemannian Optimization.
 
 
-## Publications/Preprints
+### Publications/Preprints
 
 B. Mishra, N. T. V. Satya Dev, H. Kasai, and P. Jawanpuria.  
 [Manifold optimization for optimal transport](https://arxiv.org/pdf/2103.00902.pdf), arXiv 2021.
@@ -35,7 +35,7 @@ P. Jawanpuria, N. T. V. Satya Dev, and B. Mishra.
 P. Jawanpuria, N. T. V. Satya Dev, A. Kunchukuttan, and B. Mishra.  
 [Learning Geometric Word Meta-Embeddings](https://www.aclweb.org/anthology/2020.repl4nlp-1.6/), RepL4NLP @ ACL 2020.
 
-## Repositories/Contributions
+### Repositories/Contributions
 
 **[McTorch](https://github.com/mctorch/mctorch)**: Manifold optimization library for Deep Learning  
 
